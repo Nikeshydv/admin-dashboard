@@ -1,0 +1,69 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap');
+
+*{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+  }
+
+
+  #admin{
+    max-width: fit-content;
+    border: 2px solid rgb(46, 41, 41);
+    background-color: yellow;
+    overflow-x: hidden;
+    
+  }
+
+#admin ul li{
+    /* list-style-type: none; */
+  
+    
+        list-style-type: none;
+        margin: 30px 10px 30px 10px;
+    
+    
+}
+
+
+#admin ul li a{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+  
+   
+    
+}
+
+
+  #admin ul li img{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(18, 17, 17);
+    border: 2px solid;
+    box-shadow: 2px 2px 15px rgb(40, 39, 39);
+    border-radius: 50%;
+    
+  }
+
+
+  #admin ul {
+    padding: 
+    20px;
+  }
+
+
+  /* #admin ul li input{
+    
+  } */
+
+
+  
